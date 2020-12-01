@@ -17,6 +17,7 @@
   - Estatística para ciência de dados
   - Machine Learning
  
+ <!--
 
 <> ## - 💬 Ask me about ...
   
@@ -32,4 +33,4 @@
 <> - 😄 Pronouns: ...
 <> - ⚡ Fun fact: ...
 <> -->
-
+-->
