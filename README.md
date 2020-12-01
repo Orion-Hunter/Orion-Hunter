@@ -1,7 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Fabrício 👋
 
+:blue_book: Estudante de Engenharia da Computação na [Unifesspa](https://unifesspa.edu.br/)
+
+:octocat: Desenvolvedor Backend
+
+:office: Pós-júnior da [Bits Jr](https://www.bitsjr.com.br/)
 <!--
 **Orion-Hunter/Orion-Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🔭 I’m currently working on ...
+
+- Desenvolvimento de um sistema de registro de atendimentos para a Secretaria de Indústria, Comércio, Mineração, Ciência e Tecnologia da Prefeitura de Marabá-PA. 
+
+
+## - 🌱 I’m currently learning ...
+
+ - Estatística para ciência de dados
+ - Machine Learning
+ 
+%
+## - 💬 Ask me about ...
+ -  
 
 Here are some ideas to get you started:
 
@@ -14,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+%
