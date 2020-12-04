@@ -1,3 +1,5 @@
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
 ### Hi there, I'm Fabrício 👋
 
 :blue_book: Estudante de Engenharia da Computação na [Unifesspa](https://unifesspa.edu.br/)
