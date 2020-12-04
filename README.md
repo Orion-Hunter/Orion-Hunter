@@ -1,4 +1,4 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Orion-Hunter Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 ### Hi there, I'm Fabrício 👋
 
