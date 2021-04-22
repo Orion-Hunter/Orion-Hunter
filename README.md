@@ -13,7 +13,7 @@
 
 ### 🔭 I’m currently working on ...
 
- - Desenvolvimento de um sistema de registro de atendimentos para a Secretaria de Indústria, Comércio, Mineração, Ciência e Tecnologia da Prefeitura de Marabá-PA. 
+ - Atuo em Projeto de Iniciação Científica que tem como objetivo criar um ou vários modelos de Machine Learning que permitem prever o volume de Chuvas na região de Marabá-PA. 
 
 
 ## 🌱 I’m currently learning ...
