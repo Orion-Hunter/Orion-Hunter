@@ -21,7 +21,7 @@
   - Estatística para ciência de dados
   - Machine Learning
  
-## Tecnologies & Tools
+
  
  
  
