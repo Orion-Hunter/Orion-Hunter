@@ -17,7 +17,7 @@
 
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
 
-- <div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
+ <div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
 
   
 
