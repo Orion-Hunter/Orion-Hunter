@@ -17,7 +17,10 @@
 
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
 
-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-Hunter&hide_border=true&layout=compact" align="left" />  
+- <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center" />
+</div>  
+
   
 
 <br/>  
@@ -76,11 +79,9 @@
 
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Orion-Hunter&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center" />
-</div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-Hunter&hide_border=true&layout=compact" align="left" />  
+<br/>  
 
 <br />
 
