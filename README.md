@@ -10,10 +10,6 @@
   
 
 - 🌱 I’m currently learning Data Science, IA and Domain Driven Development
-  
-
-- ⚡ Fun fact: I think a lot  
-  
 
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
 
