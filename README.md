@@ -5,14 +5,14 @@
 
 ### <div align="center">I'm Fabrício, a full-time backend developer 👨‍💻 working on startup🚀</div>  
   
-
+<!---
 - I'm currently looking for an oportunity
   
 
 - 🌱 I’m currently learning Clean Architecture, RabbitMQ and Data Analysis
 
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
-
+--->
  <div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
 
   
