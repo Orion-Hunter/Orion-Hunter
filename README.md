@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fabrício, a full-time backend developer 👨‍💻 working on startup🚀</div>  
+### <div align="center">I'm Fabrício, a backend developer 👨‍💻🚀</div>  
   
 <!---
 - I'm currently looking for an oportunity
