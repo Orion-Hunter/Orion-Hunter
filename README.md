@@ -13,7 +13,10 @@ Backend developer with more focus on Data Analysis and Data Engineer💻
 <!---
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
 --->
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Orion-Hunter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br/>  
 </div>  
 
