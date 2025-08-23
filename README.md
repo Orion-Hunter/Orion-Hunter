@@ -1,5 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+![](https://komarev.com/ghpvc/?username=Orion-Hunter&color=blue&style=flat-square)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Orion-Hunter.github/profile-views)
 
   
 
