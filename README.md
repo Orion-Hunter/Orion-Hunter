@@ -3,20 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Fabrício, a backend developer 👨‍💻🚀</div>  
-  
+### <div align="center">I'm Fabrício👨‍💻🚀</div>  
+
+I was born and I live in the city of Marabá in the state of Pará, Brazil 🌎 
+
+Graduated in Computer Engineering at [Unifesspa](https://www.unifesspa.edu.br/) 🎓
+
+Backend developer with more focus on Data Analysis and Data Engineer💻
 <!---
-- I'm currently looking for an oportunity
-  
-
-- 🌱 I’m currently learning Clean Architecture, RabbitMQ and Data Analysis
-
 - 🏢 Pós Júnior da [ Bits Jr](https://www.bitsjr.com.br/)  
 --->
- <div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
-
-  
-
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
 <br/>  
 
 
@@ -33,13 +30,12 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 
 </div>
-
 </td><td valign="top" width="33%">
-
-
 <br/>  
 
 
@@ -48,12 +44,13 @@
 <a href="https://github.com/Orion-Hunter" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabricio-s-45a564125/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabricio-s-45a564125/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>-->  
+</a>
+<a href="[https://medium.com/@fabricio.devbackend]">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
-
 <br/>  
 
 
@@ -65,59 +62,3 @@
 
 <br />
 
-
-<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-Hunter&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there, I'm Fabrício 👋
-
-:blue_book: Estudante de Engenharia da Computação na [Unifesspa](https://unifesspa.edu.br/)
-
-:octocat: Desenvolvedor Backend
-
-:office: Pós-júnior da [Bits Jr](https://www.bitsjr.com.br/)
-
-
-### 🔭 I’m currently working on ...
-
- - Atuo em Projeto de Iniciação Científica que tem como objetivo criar um ou vários modelos de Machine Learning que permitem prever o volume de Chuvas na região de Marabá-PA. 
-
-
-## 🌱 I’m currently learning ...
-
-  - Estatística para ciência de dados
-  - Machine Learning
- 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
--->
-
-
-
- <!--
-
-<> ## - 💬 Ask me about ...
-  
-
-<> Here are some ideas to get you started:
-
-<> - 🔭 I’m currently working on ...
-<> - 🌱 I’m currently learning ...
-<> - 👯 I’m looking to collaborate on ...
-<> - 🤔 I’m looking for help with ...
-<> - 💬 Ask me about ...
-<> - 📫 How to reach me: ...
-<> - 😄 Pronouns: ...
-<> - ⚡ Fun fact: ...
-<> 
--->
