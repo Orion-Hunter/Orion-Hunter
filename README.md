@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
+
   
 
 ### <div align="center">I'm Fabrício👨‍💻🚀</div>  
@@ -15,7 +15,7 @@ Backend developer with more focus on Data Analysis and Data Engineer💻
 --->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Orion-Hunter&&style=flat-square" align="center"/></div>  
 <br/>  
-
+</div>  
 
 ## My Skill Set  
 
